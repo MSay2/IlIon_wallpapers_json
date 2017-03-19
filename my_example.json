@@ -1,0 +1,11 @@
+[
+    {
+        "fish_img":"http://img4.hostingpics.net/pics/669296amberpentagonal.jpg","fish_name":"Indian Mackerel","cat_name":"Marine Fish","size_name":"Medium","price":"100"
+    },
+    {
+        "fish_img":"http://img4.hostingpics.net/pics/648748battytude.png","fish_name":"Manthal Repti","cat_name":"Marine Fish","size_name":"Small","price":"200"
+    },
+    {
+        "fish_img":"http://img4.hostingpics.net/pics/229769bluegreypentagonal.jpg","fish_name":"Baby Sole Fish","cat_name":"Marine Fish","size_name":"Small","price":"600"
+    }
+]
