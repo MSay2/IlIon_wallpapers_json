@@ -1,11 +1,10 @@
 {
-    "versionName": "6.3",
-    "versionCode": "63",
+    "versionName": "6.4",
+    "versionCode": "64",
     "url": "https://raw.githubusercontent.com/msay2/IlIon_wallpapers_json/master/update/script/app.apk",
     "release": 
     [
-        "- Améliorations apportées",
-        "- Nouveau support !",
-        "- Corrections de quelques bogues"
+        "- 2 nouvelles icônes",
+        "- 4 icônes redésignées"
     ]
 }
