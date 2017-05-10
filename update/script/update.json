@@ -1,9 +1,11 @@
 {
-    "versionName": "6.5",
-    "versionCode": "65",
+    "versionName": "7.1",
+    "versionCode": "71",
     "url": "https://raw.githubusercontent.com/msay2/IlIon_wallpapers_json/master/update/script/app.apk",
     "release": 
     [
-        "- Nouvelle mise en page pour le contact du support"
+        "- Une icône redésignée",
+        "- 2 nouvelles icônes",
+        "- Code Source néttoyée !!"
     ]
 }
