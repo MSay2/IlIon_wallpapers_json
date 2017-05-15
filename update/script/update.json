@@ -1,11 +1,10 @@
 {
-    "versionName": "7.1",
-    "versionCode": "71",
+    "versionName": "7.1.1",
+    "versionCode": "711",
     "url": "https://raw.githubusercontent.com/msay2/IlIon_wallpapers_json/master/update/script/app.apk",
     "release": 
     [
-        "- Une icône redésignée",
-        "- 2 nouvelles icônes",
-        "- Code Source néttoyée !!"
+        "- La section Fonds d'écrans a était améliorée",
+        "- La section aperçu des Fonds d'écrans a était améliorée"
     ]
 }
