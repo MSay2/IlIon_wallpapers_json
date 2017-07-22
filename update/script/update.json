@@ -1,15 +1,9 @@
 {
-    "versionName": "8.0",
-    "versionCode": "800",
+    "versionName": "8.0.1",
+    "versionCode": "801",
     "url": "https://raw.githubusercontent.com/msay2/IlIon_wallpapers_json/master/update/script/app.apk",
     "release": 
     [
-        "Raccourcissement d'ouverture de l'application",
-        "Correction d'un bogue visuel vue sur le gestionnaire de tâches",
-        "Amélioration du chargement des miniatures des fonds d'écran",
-        "Amélioration de la palette de couleur",
-        "Ajout d'une fonction de Raccourci pour les utilisateurs Android Nougat",
-        "Améliorations apportées",
-        "IlIon est maintenant compatible avec Android KitKat"
+        "Ajout de plusieurs Packs de couleur"
     ]
 }
