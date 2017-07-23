@@ -1,9 +1,11 @@
 {
-    "versionName": "8.0.1",
-    "versionCode": "801",
+    "versionName": "8.1",
+    "versionCode": "810",
     "url": "https://raw.githubusercontent.com/msay2/IlIon_wallpapers_json/master/update/script/app.apk",
     "release": 
     [
-        "Ne téléchargez pas, IlIon est en periode de test !!"
+        "Ajout d'une fonction de mise à jour automatique",
+        "Améliorations apportées",
+        "6 nouvelles icônes"
     ]
 }
