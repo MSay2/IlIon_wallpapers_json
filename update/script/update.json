@@ -1,10 +1,10 @@
 {
-    "versionName": "9.2",
-    "versionCode": "920",
+    "versionName": "9.3",
+    "versionCode": "930",
     "url": "https://raw.githubusercontent.com/msay2/IlIon_wallpapers_json/master/update/script/app.apk",
     "release": 
     [
-        "- Correction de plusieurs bogues",
-        "- Améliorations apportées"
+        "- Mise à jour des librairies implémentées",
+        "/!\ Cette mise à jour n'est pas obligatoire /!\"
     ]
 }
