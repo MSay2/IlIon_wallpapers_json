@@ -1,11 +1,13 @@
 {
-    "versionName": "9.3",
-    "versionCode": "930",
-    "tested": "no",
+    "versionName": "9.4",
+    "versionCode": "940",
+    "tested": "yes",
     "url": "https://raw.githubusercontent.com/msay2/IlIon_wallpapers_json/master/update/script/app.apk",
     "release": 
     [
-        "- Mise à jour des librairies implémentées",
-        "- CETTE MISE À JOUR N'EST PAS OBLIGATOIRE"
+        "- Plusieurs corrections mineurs sur le rembourrage",
+        "- Fonction de mise à jour amélioré",
+        "- Correction d'une fermeture forcé dans la section Menu sur le changement d'orientation d'écran",
+        "- Télécharger la nouvelle version pour consulter le reste des nouveautés"
     ]
 }
