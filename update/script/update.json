@@ -1,13 +1,12 @@
 {
-    "versionName": "9.6",
-    "versionCode": "960",
+    "versionName": "9.7",
+    "versionCode": "970",
     "tested": "yes",
     "url": "https://raw.githubusercontent.com/msay2/IlIon_wallpapers_json/master/update/script/app.apk",
     "release": 
     [
-        "- Section FAQs Possède maintenant sa propre fonction de recherche",
-		"- Section Icônes Possède maintenant sa propre fonction de recherche",
-		"- Vous pouvez maintenant choisir plusieurs icônes à partir de plusieurs Lanceurs",
-		"- Contrôle du clavier virtuel amélioré"
+        "- BlackBerry Launcher est disponible",
+		"- Contributeurs au développement de IlIon",
+		"- Petites améliorations"
     ]
 }
