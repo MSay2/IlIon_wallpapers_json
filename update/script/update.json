@@ -1,10 +1,10 @@
 {
-    "versionName": "9.7",
-    "versionCode": "970",
+    "versionName": "9.8.1",
+    "versionCode": "981",
     "tested": "yes",
     "url": "https://raw.githubusercontent.com/msay2/IlIon_wallpapers_json/master/update/script/app.apk",
     "release": 
     [
-        "- Petites améliorations pour Android KitKat"
+        "- Grosses améliorations pour Android KitKat et Lollipop"
     ]
 }
