@@ -1,11 +1,12 @@
 {
-    "versionName": "10.0",
-    "versionCode": "1000",
+    "versionName": "11.0b",
+    "versionCode": "1100",
     "tested": "yes",
     "url": "https://raw.githubusercontent.com/msay2/IlIon_wallpapers_json/master/update/script/app.apk",
     "release": 
     [
-        "- Corrections de bogues des paramétrages de IlIon",
-        "- Ajout de plusieurs paramètres"
+        "- Corrections de bogues Important",
+        "- Ajout de une nouvelle icones",
+        "- Ajout de 9 icones Alternatives"
     ]
 }
